@@ -1,6 +1,8 @@
 How its work:
-1. Open jupyter notebook and run all cell
-2. Upload BankChurners.csv file so pandas libary can read it.
+1. open jupyter notebook and run all cell
+2. use BankChurners.csv file 
+
+
 
 Project Summary:
 
